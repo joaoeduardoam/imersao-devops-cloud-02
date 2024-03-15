@@ -26,3 +26,5 @@ jobs:
       run: echo "Configurar o KubeConfig"
     - name: Aplicar o deploy
       run: echo "Aplicar kubectl apply"
+
+
